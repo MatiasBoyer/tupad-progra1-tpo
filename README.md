@@ -16,4 +16,4 @@ Es el documento con la información del proyecto, explicación de los Algoritmos
 
 ### Enlace al video
 El video está subido a YouTube, en el siguiente link:
-[link](https://youtube.com/asd)
+[https://youtu.be/EQbAULscUPo](https://youtu.be/EQbAULscUPo)
